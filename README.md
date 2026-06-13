@@ -107,10 +107,12 @@ User messages are sent to the Node.js backend → Azure CLU detects intent and e
 
 Developed as a Data Science Senior Project.
 
-> **My contributions:** *(Add what you specifically worked on — e.g. backend API, CLU model training, data processing pipeline, frontend UI, database integration, etc.)*
+
+> **My contributions:** Collaborated in a team of 5 to design, develop, and deploy the Airport Chatbot as part of our Data Science Senior Project.
+
 
 ---
 
 ## 📄 License
 
-This project is for academic purposes. Please credit the original team if reused.
+This project is for academic purposes. 
